@@ -3,3 +3,4 @@ pandas
 PyPDF2
 google-generativeai
 openpyxl
+fpdf
